@@ -1,0 +1,144 @@
+<div class="object_sections_title">
+  <div class="one_section_title" data-tabid="section_all">
+    <span>Цокольный этаж</span>
+  </div>
+  <div class="one_section_title" data-tabid="section_2">
+    <span>Этаж 1</span>
+  </div>
+  
+  <div class="one_section_title" data-tabid="section_3">
+    <span>Этажи 2-7</span>
+  </div>
+  
+  <div class="one_section_title" data-tabid="section_4">
+    <span>Этажи 8-9</span>
+  </div>
+  
+</div>
+
+
+<div class="object_sections_content">
+  <div class="object_sections_content_inner">
+    <div id="section_all">
+      <div class="images_flats">
+        <!-- Основная картинка и картинки для подсветки -->
+       <img id="image_flat_1" src="images/objects/svitanok/planirovki/tsokol-svitanok/tsokol-nezhiloy-1.png" alt=""/>
+        <img id="image_flat_2" src="images/objects/svitanok/planirovki/tsokol-svitanok/tsokol-nezhiloy-2.png" alt=""/>
+        <img id="all_flats" src="images/objects/svitanok/planirovki/tsokol-svitanok/tsokol.jpg" alt=""/>
+        
+        <div class="links_flats">
+          <!-- Ссылки для показа POPup картинок квартир -->
+          
+          <a href="images/objects/svitanok/planirovki/tsokol-svitanok/komertsiini-1-flat_00000.png" class="one_flat_link" data-tabid="flat_1" data-lightbox="s1" id="link_flat_1">
+          </a>
+          
+          <a href="images/objects/svitanok/planirovki/tsokol-svitanok/komertsiini-1-flat_00002.png" class="one_flat_link" data-tabid="flat_2" data-lightbox="s1" id="link_flat_2">
+
+          </a>
+
+        </div>
+      </div>
+    </div>
+    
+    <div id="section_2">
+      <div class="images_flats">
+        <!-- Основная картинка и картинки для подсветки -->
+        <img id="image_flat_6" src="images/objects/svitanok/planirovki/etazh-1/etazh-1-1k-type1.png" alt=""/>
+        <img id="image_flat_7" src="images/objects/svitanok/planirovki/etazh-1/etazh-1-2k-type1.png" alt=""/>
+        <img id="image_flat_8" src="images/objects/svitanok/planirovki/etazh-1/etazh-1-nezhiloy-2.1.png" alt=""/>
+        <img id="image_flat_9" src="images/objects/svitanok/planirovki/etazh-1/etazh-1-nezhiloy-1.1.png" alt=""/>
+        <img id="all_flats" src="images/objects/svitanok/planirovki/etazh-1/etazh-1.jpg" alt=""/>
+        
+		<div class="links_flats">
+          <!-- Ссылки для показа POPup картинок квартир -->
+          <a href="images/objects/svitanok/planirovki/etazh-1/b1-f1-flat-00.png" class="one_flat_link" data-tabid="flat_6" data-lightbox="s2" id="link_flat_6">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-1/b1-f1-flat-01.png" class="one_flat_link" data-tabid="flat_7" data-lightbox="s2" id="link_flat_7">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-1/komertsiini-1-flat_00003.png" class="one_flat_link" data-tabid="flat_8" data-lightbox="s2" id="link_flat_8">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-1/komertsiini-1-flat_00001.png" class="one_flat_link" data-tabid="flat_9" data-lightbox="s2" id="link_flat_9">
+          </a>
+  
+        </div>
+      </div>
+   </div>
+   
+    <div id="section_3">
+      <div class="images_flats">
+        <!-- Основная картинка и картинки для подсветки -->
+        <img id="image_flat_10" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type1.png" alt=""/>
+        <img id="image_flat_11" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type2.png" alt=""/>
+        <img id="image_flat_12" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type3.png" alt=""/>
+        <img id="image_flat_13" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type4.png" alt=""/>
+        <img id="image_flat_14" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type5.png" alt=""/>
+        <img id="image_flat_15" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type6.png" alt=""/>
+        <img id="image_flat_16" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7-1k-type7.png" alt=""/>
+        <img id="all_flats" src="images/objects/svitanok/planirovki/etazh-2-7/etazh-2-7.jpg" alt=""/>
+        
+		<div class="links_flats">
+          <!-- Ссылки для показа POPup картинок квартир -->
+          <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-2-7.png" class="one_flat_link" data-tabid="flat_10" data-lightbox="s2" id="link_flat_10">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-2-2-7.png" class="one_flat_link" data-tabid="flat_11" data-lightbox="s2" id="link_flat_11">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-3-2-7.png" class="one_flat_link" data-tabid="flat_12" data-lightbox="s2" id="link_flat_12">
+          </a>
+          <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-4-2-7.png" class="one_flat_link" data-tabid="flat_13" data-lightbox="s2" id="link_flat_13">
+          </a>
+          
+        <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-5-2-7.png" class="one_flat_link" data-tabid="flat_14" data-lightbox="s2" id="link_flat_14">
+        </a>
+          
+        <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-6-2-7.png" class="one_flat_link" data-tabid="flat_15" data-lightbox="s2" id="link_flat_15">
+        </a>
+          
+       <a href="images/objects/svitanok/planirovki/etazh-2-7/1k-flat-type-7-2-7.png" class="one_flat_link" data-tabid="flat_16" data-lightbox="s2" id="link_flat_16">
+        </a>
+  
+        </div>
+      </div>
+      
+     <div id="section_4">
+      <div class="images_flats">
+        <!-- Основная картинка и картинки для подсветки -->
+        <img id="image_flat_17" src="images/" alt=""/>
+        <img id="image_flat_18" src="images/" alt=""/>
+        <img id="image_flat_19" src="images/" alt=""/>
+        <img id="image_flat_20" src="images/" alt=""/>
+        <img id="image_flat_21" src="images/" alt=""/>
+        <img id="image_flat_22" src="images/" alt=""/>
+        <img id="image_flat_23" src="images/" alt=""/>
+        <img id="all_flats" src="images/objects/svitanok/planirovki/etazh-8-9/etazh-8-9.jpg" alt=""/>
+        
+		<div class="links_flats">
+          <!-- Ссылки для показа POPup картинок квартир -->
+          
+        <a href="images/" class="one_flat_link" data-tabid="flat_17" data-lightbox="s2" id="link_flat_17">
+          </a>
+        
+        <a href="images/" class="one_flat_link" data-tabid="flat_18" data-lightbox="s2" id="link_flat_18">
+          </a>
+        
+        <a href="images/" class="one_flat_link" data-tabid="flat_19" data-lightbox="s2" id="link_flat_19">
+          </a>
+        
+        <a href="images/" class="one_flat_link" data-tabid="flat_20" data-lightbox="s2" id="link_flat_20">
+          </a>
+          
+        <a href="images/" class="one_flat_link" data-tabid="flat_21" data-lightbox="s2" id="link_flat_21">
+        </a>
+          
+        <a href="images/" class="one_flat_link" data-tabid="flat_22" data-lightbox="s2" id="link_flat_22">
+        </a>
+          
+       <a href="images/" class="one_flat_link" data-tabid="flat_23" data-lightbox="s2" id="link_flat_23">
+        </a>
+  
+        </div>
+      </div>
+      
+    
+    </div>
+  </div>
+</div>
