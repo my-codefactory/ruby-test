@@ -1,3 +1,3 @@
 <? php
-  include_once('index.html');
+  include_once('https://github.com/my-codefactory/ruby-test/index.html');
 ?>
