@@ -388,7 +388,7 @@ h1{
 	position: relative;
 	padding: 15px 40px 15px 55px;
 	background-image: -webkit-gradient(linear, 0% 40%, 0% 100%, from(#4778b2), to(#3d5da4));
-    background-image: -moz-linear-gradient(40% 100% 90deg, #4778b2, #3d5da4);
+        background-image: -moz-linear-gradient(40% 100% 90deg, #4778b2, #3d5da4);
 	border: 1px solid #315589;
 	border-radius: 2px;
 	cursor: pointer;
