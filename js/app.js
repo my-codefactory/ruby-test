@@ -62,10 +62,10 @@
 	addNewTaskButtonMobile.addEventListener("click", function(event){
 		event.preventDefault();
 		
-			if(!input.value){
-				alert('Please, enter your task');
-			} else{
-				createTodo();
+		if(!input.value){
+			alert('Please, enter your task');
+		} else{
+			createTodo();
 		}
 	});
 	
